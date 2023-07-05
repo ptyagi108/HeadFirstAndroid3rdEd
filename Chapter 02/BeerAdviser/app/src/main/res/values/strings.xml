@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Beer Adviser</string>
-    <string name="find_beer">Find Beer</string>
-    <string name="brands">No beer selected</string>
+    <string name="app_name">Drink Adviser</string>
+    <string name="find_beer">Find Drink</string>
+    <string name="brands">No drink selected</string>
     <string-array name="beer_colors">
         <item>Light</item>
         <item>Amber</item>
